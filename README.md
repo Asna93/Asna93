@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asna Parvin</h1>
-<h3 align="center">An aspiring backend developer</h3>
+<h3 align="center">An aspiring fullstack developer</h3>
 
 - 💬 Ask me about **Python,Django,React**
 
